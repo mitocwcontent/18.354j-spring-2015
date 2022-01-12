@@ -1,0 +1,25 @@
+leftnav:
+- identifier: af10bb11-d564-c668-ade8-9bfc57931157
+  name: Syllabus
+  url: /pages/syllabus
+  weight: 10
+- identifier: 602a3449-62bd-5866-c320-6e738ad51e8c
+  name: Calendar
+  url: /pages/calendar
+  weight: 20
+- identifier: d31f6487-0e1d-d918-13ba-7d833cb1dcdc
+  name: This Course at MIT
+  url: /pages/this-course-at-mit
+  weight: 30
+- identifier: 3174a261-7ad4-b8e9-a80d-6c0b8b3b0aa5
+  name: Lecture Notes
+  url: /pages/lecture-notes
+  weight: 40
+- identifier: b93750ce-9eb6-2e0d-2d9a-a7ba7e1919c4
+  name: Assignments and Exams
+  url: /pages/assignments-and-exams
+  weight: 50
+- identifier: 2ae49847-8994-3823-c18d-6c2bf59246d2
+  name: Projects
+  url: /pages/projects
+  weight: 60
